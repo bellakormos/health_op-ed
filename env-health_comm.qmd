@@ -1,8 +1,29 @@
 ---
-title: "Phthalate exposure and and personal care products"
+title: "Op Ed: Toxic chemcial exposure in our menstrual products"
 author: "Bella Kormos"
-format: html
+date: "18 March, 2026"
+format:
+  html:
+    mainfont: "EB Garamond"
+    toc: true # table of contents
+    toc-depth: 2 # shows H2 headings in TOC
+    number-sections: false # op-eds don't usually number sections
+    theme: cosmo # clean professional theme
+    fontsize: 1.1em  # slightly larger for readability
+    linestretch: 1.6 # comfortable line spacing
+    smooth-scroll: true # smooth scrolling between sections
 editor: visual
 ---
 
 ## 
+Menstruators from ages 13 to 51 years old, on average, use over, “10 000 menstrual products in their lifetime” (Regional Health-Americas TL 2022). Globally, there is a gross lack of awareness, access, and education surrounding personal-care products and ingredients in menstrual products. No one really knows what chemicals are in our pads and tampons, and not a lot of people really understand that the vaginal area is highly absorptive and permeable. People who menstruate are a vulnerable group for chemical exposure due to the fundamental neccesaity of using menstrual products. 
+
+When you go to the store for pads, do read the ingredient list? Even if you do, do you understand what the harmful health affects are to these chemicals? 
+
+In my experience asking friends and peers this question, 
+
+
+People who menstruate serve as a vulnerable group for chemical exposure due to the fundamental necessity of using menstrual products such as pads and tampons, which creates a direct vaginal connection to potentially hazardous substances. However, Women of Color – specifically those in vulnerable or low-income environments – face even higher risks. The community of interest for this research is defined as Women of Color (WOC) in the United States, with a specific focus on Black, Latina, and Vietnamese populations who face disproportionate chemical exposures specifically from menstruation products. The demographic is uniquely vulnerable due to the convergence of systemic racism and targeted marketing which pathologize natural body functions. Menstrual products often contain endocrine-disrupting chemicals (EDCs) such as phthalates, which are absorbed through the highly permeable vaginal mucosa. The absorption is particularly hazardous because chemicals enter the body’s circulation without “first-pass liver metabolism,” contributing to cumulative “allostatic load” that is further exacerbated for those living in already polluted or marginalized communities (Lin et al., 2020; Brissett, 2025). 
+
+
+
