@@ -1,3 +1,3 @@
 # health_op-ed
 Quarto document environmental communication
-https://github.com/bellakormos/health_op-ed 
+https://bellakormos.github.io/health_op-ed/ 
